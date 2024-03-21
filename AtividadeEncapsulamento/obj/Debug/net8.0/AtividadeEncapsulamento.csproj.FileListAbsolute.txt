@@ -1,0 +1,14 @@
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\bin\Debug\net8.0\AtividadeEncapsulamento.exe
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\bin\Debug\net8.0\AtividadeEncapsulamento.deps.json
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\bin\Debug\net8.0\AtividadeEncapsulamento.runtimeconfig.json
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\bin\Debug\net8.0\AtividadeEncapsulamento.dll
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\bin\Debug\net8.0\AtividadeEncapsulamento.pdb
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.AssemblyInfo.cs
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.dll
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\refint\AtividadeEncapsulamento.dll
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.pdb
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\AtividadeEncapsulamento.genruntimeconfig.cache
+C:\Users\2023102060019\Documents\POO\AtividadeEncapsulamento\obj\Debug\net8.0\ref\AtividadeEncapsulamento.dll
