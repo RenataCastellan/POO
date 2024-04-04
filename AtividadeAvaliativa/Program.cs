@@ -5,5 +5,8 @@
 //validacao.cpf = Console.ReadLine();
 
 
-string cpf = "123.456.789-77";
+string cpf = "062.658.512-09";
 Validacao.ValidaCPF(cpf);
+
+
+Console.ReadKey();
